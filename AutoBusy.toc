@@ -1,0 +1,8 @@
+## Interface: 70200
+## Title: AutoBusy
+## Version: 1.1
+## Notes: Automatically go to "Do not disturb" mode
+## Author: Ellypse
+## SavedVariables: EAB_Options
+
+AutoBusy.lua
